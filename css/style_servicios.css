@@ -3,7 +3,7 @@ body {
 }
 
 main {
-    padding: 5vw 10vw;
+    margin: 10vh 10vw;
     font-size: 16px;
     font-family: sans-serif;
 }
@@ -18,4 +18,11 @@ li {
     list-style: circle;
     font-weight: bold;
     color: dimgrey;
+}
+
+nav #nav_servicios {
+	background-color: #86a3d5;
+	color: #ffffff;
+	border-radius: 3px;
+	padding:6px 10px;
 }
