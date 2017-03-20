@@ -38,12 +38,20 @@
 
         <p>Consultanos</p>
 
-        <form action="#" method="post">
+        <form id="contactform" action="contact-form-handler.php" method="post">
 
             <input type="text" name="email" placeholder="Introduzca su e-mail" />
             <textarea name="message" placeholder="Message"></textarea>
-            <button>Send</button>
+            <button>Enviar</button>
 
         </form>
+        
+        <script language="JavaScript">
+            var frmvalidator  = new Validator("contactform");
+            frmvalidator.addValidation("email","req","Please provide your email");
+            frmvalidator.addValidation("email","email",
+            "Please enter a valid email address");
+        </script>
+        
     </div>
 </footer>
