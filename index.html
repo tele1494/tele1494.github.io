@@ -1,35 +1,68 @@
----
-layout: default
-title: Academia Gustavo
-baseurl: /css/style.css
----    
+<!DOCTYPE html>
 
-<main class="section-distributed">
-    <section class="section-left">
-	<h2>Experiencia</h2>
-	<p>
-	    Llevamos más de 20 años formando alumnos y alumnas de todas las edades adaptándonos a sus necesidades. Nuestro equipo docente está compuesto por profesionales cualificados con amplia experiencia en todas las materias imparitdas.
-	</p>
-    </section>
-
-    <section class="section-center-left">
-	<h2>A tu manera</h2>
-	<p>
-	    Impartimos clases tanto a grupos como de manera individual. Ofrecienéndote la oportunidad de elegir la opción que más se ajuste a sus necesidades y posibilidades.
-	</p>
-    </section>
-
-    <section class="section-center-right">
-	<h2>Garantía de resultados</h2>
-	<p>
-	    Podemos garantizar a cada alumno y alumna una enseñanza personalizada. Asimismo, se conciertan entrevistas en caso necesario, para conseguir que todos los estudiantes consigan superar todos los obstáculos que le impidan su correcta evolución académica.
-	</p>
-    </section>
-
-    <section class="section-right">
-	<h2>Nos adaptamos a ti</h2>
-	<p>
-	    Dispondrás de cómodos horarios, y si lo necesitas, podrás disponer de profesorado para la preparación intensiva de tus exámenes incluso los sábados. Si buscas una academia que te ofrezca las mejores garantías: somos tu elección.
-	</p>
-    </section>
-</main>
+<html lang="es">
+    <head>
+        <title>Academia Gustavo</title>
+        <link rel="icon" href="img/head_icon.ico">
+        
+        <!- Main styles ->
+        <link rel="stylesheet" href="css/style.css">
+        
+        <!- Header/Footer styles and fonts ->
+        <link rel="stylesheet" href="css/header-basic-light.css">
+        <link rel="stylesheet" href="css/footer-distributed-with-address-and-phones.css">
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+        <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!- Este meta es necesario para la correcta visualización en todos los dispositivos ->
+        
+        
+        <!- Header/Footer import ->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script>
+            $(function(){
+                $("#header").load("header.html");
+                $("#footer").load("footer.html");
+            });
+        </script>
+    </head>
+    
+    <body>
+        
+        <div id="header"></div>
+        
+        <main class="section-distributed">
+            <section class="section-left">
+                <h2>Experiencia</h2>
+                <p>
+                    Llevamos más de 20 años formando alumnos y alumnas de todas las edades adaptándonos a sus necesidades. Nuestro equipo docente está compuesto por profesionales cualificados con amplia experiencia en todas las materias imparitdas.
+                </p>
+            </section>
+            
+            <section class="section-center-left">
+                <h2>A tu manera</h2>
+                <p>
+                    Impartimos clases tanto a grupos como de manera individual. Ofrecienéndote la oportunidad de elegir la opción que más se ajuste a sus necesidades y posibilidades.
+                </p>
+            </section>
+            
+            <section class="section-center-right">
+                <h2>Garantía de resultados</h2>
+                <p>
+                    Podemos garantizar a cada alumno y alumna una enseñanza personalizada. Asimismo, se conciertan entrevistas en caso necesario, para conseguir que todos los estudiantes consigan superar todos los obstáculos que le impidan su correcta evolución académica.
+                </p>
+            </section>
+            
+            <section class="section-right">
+                <h2>Nos adaptamos a ti</h2>
+                <p>
+                    Dispondrás de cómodos horarios, y si lo necesitas, podrás disponer de profesorado para la preparación intensiva de tus exámenes incluso los sábados. Si buscas una academia que te ofrezca las mejores garantías: somos tu elección.
+                </p>
+            </section>
+        </main>
+        
+        <div id="footer"></div>
+        
+    </body>
+</html>
