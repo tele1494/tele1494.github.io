@@ -4,6 +4,12 @@
 	box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.15);
 	height: 80px;
 	background-color: #fff;
+	
+	/* Make header always visible */
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .header-basic-light .header-limiter {
@@ -50,12 +56,14 @@
 	line-height:1;
 }
 
+/*
 .header-basic-light .header-limiter nav a.selected {
 	background-color: #86a3d5;
 	color: #ffffff;
 	border-radius: 3px;
 	padding:6px 10px;
 }
+*/
 
 /* Making the header responsive. */
 
@@ -92,6 +100,7 @@
 /* For the headers to look good, be sure to reset the margin and padding of the body */
 
 body {
-	margin:0;
+	/* margin: 0;*/
+	margin: 110px 0px 0px 0px; /* Use when header's always visible */
 	padding:0;
 }
