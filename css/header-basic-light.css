@@ -102,11 +102,10 @@ body {
 		font-size: 13px;
 	}
 }
-@media landscape and (max-width: 480px){
+@media screen and (max-width: 480px) and (orientation: landscape){
 	.header-basic-light {
 		position: absolute;
 	}
-	
 	body {
 		margin: 0;
 	}
