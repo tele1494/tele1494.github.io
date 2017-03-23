@@ -74,7 +74,7 @@ body {
 
 /* Making the header responsive. */
 
-@media all and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 
 	.header-basic-light {
 		padding: 20px 0;
@@ -102,7 +102,7 @@ body {
 		font-size: 13px;
 	}
 }
-@media screen and (max-width: 600px) and (orientation: landscape){
+@media screen and (max-height: 480px) and (orientation: landscape){
 	.header-basic-light {
 		position: absolute;
 	}
