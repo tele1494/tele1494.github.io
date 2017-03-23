@@ -12,7 +12,7 @@
             <a href="#">Contacto</a>
         </p>
 
-        <p class="footer-company-name">Academia Gustavo &copy; 2015</p>
+        <p class="footer-company-name">Academia Gustavo &copy; 2017</p>
     </div>
 
     <div class="footer-center">
@@ -40,17 +40,17 @@
 
         <form id="contactform" action="https://formspree.io/suleymaniye.1494@gmail.com" method="post">
 
-            <input id="inputemail" type="text" name="email" placeholder="Introduzca su e-mail" />
-            <textarea id="inputmessage" name="message" placeholder="Mensaje"></textarea>
+            <input type="hidden" name="_subject" value="Consulta vía Web de la Academia Gustavo" />
+            <input type="text" name="email" placeholder="Introduzca su e-mail" />
+            <textarea name="mensaje" placeholder="Escriba aquí su consulta"></textarea>
             <button>Enviar</button>
 
         </form>
         
         <script language="JavaScript">
             var frmvalidator  = new Validator("contactform");
-            frmvalidator.addValidation("email","req","Please provide your email");
-            frmvalidator.addValidation("email","email",
-            "Please enter a valid email address");
+            frmvalidator.addValidation("email","req","Por favor, introduce una dirección de correo electrónico");
+            frmvalidator.addValidation("email","email", "La dirección de correo electrónico introducida no es válida");
         </script>
         
     </div>
