@@ -1,11 +1,5 @@
-body {
-    background-color: #f2f2f2;
-}
-
 main {
-    margin: 10vh 10vw;
-    font-size: 16px;
-    font-family: sans-serif;
+    margin: 0vh 0vw 0vh 10vw;
 }
 
 h2 {
@@ -25,4 +19,49 @@ nav #nav_servicios {
 	color: #ffffff;
 	border-radius: 3px;
 	padding:6px 10px;
+}
+
+/* Aside List styles */
+
+.verticalLine {
+    display: inline-block;
+    padding-right: 5vw;
+    border-right: 1px solid #999999;
+    width: 50vw;
+}
+
+.aside_list {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 2rem;
+    width: 220px;
+}
+
+aside.aside_list > ul > li > ul{
+    line-height: 1.5rem;
+}
+
+.aside_list a {
+    font-weight: normal;
+    text-decoration: none;
+    
+    color: #0052cc;
+}
+
+.aside_list a.selected {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 770px) {
+    .aside_list {
+        display: none;
+    }
+    
+    .verticalLine {
+        display: block;
+        width: 80vw;
+        margin-left: auto;
+        margin-right: auto;
+        border-right: 0;
+    }
 }

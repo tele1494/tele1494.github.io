@@ -3,12 +3,36 @@ main {
 }
 
 main h2 {
-    color: dodgerblue;
-    font-size: 1.2rem;
     margin-top: 30px;
+    font-size: 1.2em;
+    color: dodgerblue;
 }
 
-nav #nav_acerca_de {
+main > section > section {
+    margin-left: 5vw;
+}
+
+main h3 {
+    font-size: 0.9rem;
+}
+
+main h4 {
+    color: dodgerblue;
+    line-height: 0;
+    margin-top: 1.8rem;
+}
+
+main li {
+    list-style: circle;
+    font-weight: bold;
+    color: dimgrey;
+}
+
+main > section > section > p {
+    font-size: 0.8rem;
+}
+
+nav #nav_servicios {
 	background-color: #86a3d5;
 	color: #ffffff;
 	border-radius: 3px;
@@ -29,10 +53,6 @@ nav #nav_acerca_de {
     vertical-align: top;
     line-height: 2rem;
     width: 220px;
-}
-
-.aside_list li {
-    list-style: circle;
 }
 
 aside.aside_list > ul > li > ul{
