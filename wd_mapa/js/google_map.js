@@ -84,7 +84,7 @@ function myMap() {
             28.461567,
             -16.255834,
             'https://www.wanderlustcanarias.com/casas/rooms/49f48716-14e5-4fff-bdf6-41148db1c783',
-            '44',    // Precio
+            '35',    // Precio
             4,          // Personas
             2,          // Camas
             './img/kekasGuesthouse.jpg'
