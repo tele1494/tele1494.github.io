@@ -80,6 +80,16 @@ function myMap() {
             './img/casaRuralKirilPiedrasBlancas.jpg'
         ],
         [
+            'Las Plataneras 2 - Villa de Tazacorte',
+            28.640668,
+            -17.934569,
+            'https://www.wanderlustcanarias.com/casas/rooms/f492ec28-43e0-4adf-8060-ca2463e4bea3',
+            '46.20',    // Precio
+            4,          // Personas
+            3,          // Camas
+            './img/plataneras2VillaTazacorte.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
@@ -90,14 +100,64 @@ function myMap() {
             './img/kekasGuesthouse.jpg'
         ],
         [
-            'Las Plataneras 2 - Villa de Tazacorte',
-            28.640668,
-            -17.934569,
-            'https://www.wanderlustcanarias.com/casas/rooms/f492ec28-43e0-4adf-8060-ca2463e4bea3',
-            '46.20',    // Precio
+            'Apto. La Puente I - Costa G&uumlimar',
+            28.250290,
+            -16.397639,
+            'https://www.wanderlustcanarias.com/casas/rooms/d1dc766c-81df-4452-9960-45916737abe9',
+            '36',    // Precio
+            6,          // Personas
+            5,          // Camas
+            './img/aptoLaPuenteIICostaGuimar.jpg'
+        ],
+        [
+            'Apto. La Puente II - Costa G&uumlimar',
+            28.250026,
+            -16.397887,
+            'https://www.wanderlustcanarias.com/casas/rooms/507d7ec6-f7ca-4f0b-9e4d-87596d4b1339',
+            '50',    // Precio
+            5,          // Personas
+            3,          // Camas
+            './img/aptoLaPuenteICostaGuimar.jpg'
+        ],
+        [
+            'Apto. Plaza Roja - El M&eacutedano',
+            28.046126,
+            -16.534277,
+            'https://www.wanderlustcanarias.com/casas/rooms/52978206-07bf-4962-a36e-219c6961b256',
+            '60',    // Precio
+            3,          // Personas
+            2,          // Camas
+            './img/aptoPlazaRojaElMedano.jpg'
+        ],
+        [
+            'Apto. El Cabezo - El M&eacutedano',
+            28.046775,
+            -16.537107,
+            'https://www.wanderlustcanarias.com/casas/rooms/37603698-67c2-42e8-9690-82963cc483e6',
+            '60',    // Precio
             4,          // Personas
             3,          // Camas
-            './img/plataneras2VillaTazacorte.jpg'
+            './img/aptoElCabezoElMedano.jpg'
+        ],
+        [
+            'Casona Guamasa - Tacoronte',
+            28.490266,
+            -16.374623,
+            'https://www.wanderlustcanarias.com/casas/rooms/37603698-67c2-42e8-9690-82963cc483e6',
+            '91',    // Precio
+            16,          // Personas
+            10,          // Camas
+            './img/casonaGuamasaTacoronte.jpg'
+        ],
+        [
+            'Apto. Centro Santa Cruz de Tenerife',
+            28.460847,
+            -16.261468,
+            'https://www.wanderlustcanarias.com/casas/rooms/b6cfd42f-27af-47ab-94e1-0aa0b1e5c990',
+            '42.80',    // Precio
+            4,          // Personas
+            3,          // Camas
+            './img/aptoCentroSantaCruzTenerife.jpg'
         ]
     ];
     
