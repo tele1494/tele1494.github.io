@@ -1,9 +1,9 @@
 function myMap() {
-    var myCenter = new google.maps.LatLng(28.674108, -17.850871);
+    var myCenter = new google.maps.LatLng(28.328797, -17.197649);
     var mapCanvas = document.getElementById("map");
     var mapOptions = {
         center: myCenter,
-        zoom: 10
+        zoom: 9
     };
     var map = new google.maps.Map(mapCanvas, mapOptions);
     
