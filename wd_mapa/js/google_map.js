@@ -110,6 +110,16 @@ function myMap() {
             './img/plataneras4VillaTazacorte.jpg'
         ],
         [
+            'Apto. Casa del Mar - Puerto de Tazacorte',
+            28.639583,
+            -17.873084,
+            'https://www.wanderlustcanarias.com/casas/rooms/8eda64e3-4c93-41f0-a551-09fbb36ef2e9',
+            '55',       // Precio
+            4,          // Personas
+            3,          // Camas
+            './img/aptoCasaMarPuertoTazacorte.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
