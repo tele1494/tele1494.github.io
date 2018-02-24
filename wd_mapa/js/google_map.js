@@ -100,6 +100,16 @@ function myMap() {
             './img/plataneras3VillaTazacorte.jpg'
         ],
         [
+            'Las Plataneras 4 - Villa de Tazacorte',
+            28.640662,
+            -17.934068,
+            'https://www.wanderlustcanarias.com/casas/rooms/4b74a8d7-e8c3-42e2-9240-5f080c0a2ede',
+            '46.20',    // Precio
+            4,          // Personas
+            3,          // Camas
+            './img/plataneras4VillaTazacorte.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
