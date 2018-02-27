@@ -120,6 +120,16 @@ function myMap() {
             './img/aptoCasaMarPuertoTazacorte.jpg'
         ],
         [
+            'Casita Tajuya - El Paso',
+            28.637840,
+            -17.883002,
+            'https://www.wanderlustcanarias.com/casas/rooms/eb27a71c-808a-488b-a899-b82b3ef830b6',
+            '38',       // Precio
+            3,          // Personas
+            2,          // Camas
+            './img/casitaTajuyaElPaso.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
