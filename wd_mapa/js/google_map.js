@@ -80,6 +80,16 @@ function myMap() {
             './img/casaRuralKirilPiedrasBlancas.jpg'
         ],
         [
+            'Loft Todoque - Los Llanos de Aridane',
+            28.608125,
+            -17.898493,
+            'https://www.wanderlustcanarias.com/casas/rooms/426a58c4-8b55-43fe-83b6-b1b96ece0cbc',
+            '38',    // Precio
+            2,          // Personas
+            1,          // Camas
+            './img/loftTodoqueLlanosAridane.jpg'
+        ],
+        [
             'Las Plataneras 2 - Villa de Tazacorte',
             28.640668,
             -17.934569,
