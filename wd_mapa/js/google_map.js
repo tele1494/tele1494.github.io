@@ -90,6 +90,16 @@ function myMap() {
             './img/loftTodoqueLlanosAridane.jpg'
         ],
         [
+            'Casa Los Lilos - Tijarafe',
+            28.669969,
+            -17.951099,
+            'https://www.wanderlustcanarias.com/casas/rooms/31dfbf4d-d6e1-47e7-a19e-e34e28a44057',
+            '50',    // Precio
+            8,          // Personas
+            6,          // Camas
+            './img/casaLilosTijarafe.jpg'
+        ],
+        [
             'Las Plataneras 2 - Villa de Tazacorte',
             28.640668,
             -17.934569,
