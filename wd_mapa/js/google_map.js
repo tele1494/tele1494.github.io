@@ -150,6 +150,16 @@ function myMap() {
             './img/casitaTajuyaElPaso.jpg'
         ],
         [
+            'Apto. Kiril 2 - Piedras Blancas, El Paso',
+            28.641090,
+            -17.861674,
+            'https://www.wanderlustcanarias.com/casas/rooms/2fe8385b-01b0-4545-b233-6fc819a0b057',
+            '43',       // Precio
+            2,          // Personas
+            1,          // Camas
+            './img/aptoKiril2PiedrasBlancasElPaso.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
