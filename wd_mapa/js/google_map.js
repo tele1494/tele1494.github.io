@@ -11,8 +11,8 @@ function myMap() {
     var locations = [
         [
             'Casa R&uacutestica Hoya Grande - Garaf&iacutea',
-            28.794182,
-            -17.925220,
+            28.790507,
+            -17.927050,
             'https://www.wanderlustcanarias.com/casas/rooms/025804e7-5f78-43ab-9d71-2eb12357e9df',
             '53.50',    // Precio
             3,          // Personas
@@ -41,8 +41,8 @@ function myMap() {
         ],
         [
             'Casa T&iacuteo Juan - Tijarafe',
-            28.713265,
-            -17.955541,
+            28.703089,
+            -17.945989,
             'https://www.wanderlustcanarias.com/casas/rooms/7d96546f-11de-42b7-a4ba-815e0e820768',
             '53',       // Precio
             3,          // Personas
