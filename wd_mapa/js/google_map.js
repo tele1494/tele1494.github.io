@@ -20,14 +20,14 @@ function myMap() {
             './img/casaRusticaHoyaGrandeGarafia.jpg'
         ],
         [
-            'Apartamento Puerto Naos - Los Llanos de Aridane',
-            28.587601,
-            -17.910607,
+            'Apto. Puerto Naos - Los Llanos de Aridane',
+            28.587705,
+            -17.910974,
             'https://www.wanderlustcanarias.com/casas/rooms/fef063aa-68d0-4c8a-9479-54553380db85',
             '59',       // Precio
             4,          // Personas
             2,          // Camas
-            './img/apartamentoPuertoNaosLlanosAridane.jpg'
+            './img/aptoPuertoNaosLlanosAridane.jpg'
         ],
         [
             'Casa Mart&iacuten - Tijarafe',
