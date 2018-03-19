@@ -150,6 +150,16 @@ function myMap() {
             './img/aptoCasaMarPuertoTazacorte.jpg'
         ],
         [
+            'Apto. Pto. Naos - Los Llanos de Aridane',
+            28.586579,
+            -17.909164,
+            'https://www.wanderlustcanarias.com/casas/rooms/64b50e9e-df20-4347-8e7c-f3d49f8f1e11',
+            '53.50',       // Precio
+            4,          // Personas
+            3,          // Camas
+            './img/aptoPtoNaosLlanosAridane.jpg'
+        ],
+        [
             'Casita Tajuya - El Paso',
             28.637840,
             -17.883002,
