@@ -130,6 +130,16 @@ function myMap() {
             './img/plataneras4VillaTazacorte.jpg'
         ],
         [
+            'Aptos. Charco Azul / Los Sauces',
+            28.807597,
+            -17.762284,
+            'https://www.wanderlustcanarias.com/casas/rooms/4eaf5a35-bc3f-409c-8bf1-3304e06632ed',
+            '49',    // Precio
+            3,          // Personas
+            2,          // Camas
+            './img/aptosCharcoAzulSauces.jpg'
+        ],
+        [
             'Apto. Casa del Mar - Puerto de Tazacorte',
             28.639583,
             -17.873084,
