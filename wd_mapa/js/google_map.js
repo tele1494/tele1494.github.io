@@ -14,7 +14,7 @@ function myMap() {
             28.790507,
             -17.927050,
             'https://www.wanderlustcanarias.com/casas/rooms/025804e7-5f78-43ab-9d71-2eb12357e9df',
-            '53.50',    // Precio
+            '42.80',    // Precio
             3,          // Personas
             2,          // Camas
             './img/casaRusticaHoyaGrandeGarafia.jpg'
@@ -24,7 +24,7 @@ function myMap() {
             28.587705,
             -17.910974,
             'https://www.wanderlustcanarias.com/casas/rooms/fef063aa-68d0-4c8a-9479-54553380db85',
-            '59',       // Precio
+            '53.50',       // Precio
             4,          // Personas
             2,          // Camas
             './img/aptoPuertoNaosLlanosAridane.jpg'
@@ -44,7 +44,7 @@ function myMap() {
             28.703089,
             -17.945989,
             'https://www.wanderlustcanarias.com/casas/rooms/7d96546f-11de-42b7-a4ba-815e0e820768',
-            '53',       // Precio
+            '49.50',       // Precio
             3,          // Personas
             2,          // Camas
             './img/casaTioJuanTijarafe.jpg'
@@ -54,7 +54,7 @@ function myMap() {
             28.684356,
             -17.766926,
             'https://www.wanderlustcanarias.com/casas/rooms/21ddcd87-188a-463a-af37-db0346704c5d',
-            '42',       // Precio
+            '41',       // Precio
             2,          // Personas
             1,          // Camas
             './img/casitaCanelaSantaCruzLaPalma.jpg'
@@ -70,11 +70,11 @@ function myMap() {
             './img/casaAngelQuemadosFuencaliente.jpg'
         ],
         [
-            'Casa Rural Kiril - Piedras Blancas',
+            'Villa Rural Kiril - Piedras Blancas',
             28.649611,
             -17.860297,
             'https://www.wanderlustcanarias.com/casas/rooms/bd704b9a-8b89-4509-968c-d7bf7c4216f2',
-            '90.20',    // Precio
+            '88',    // Precio
             4,          // Personas
             3,          // Camas
             './img/casaRuralKirilPiedrasBlancas.jpg'
@@ -144,7 +144,7 @@ function myMap() {
             28.639583,
             -17.873084,
             'https://www.wanderlustcanarias.com/casas/rooms/8eda64e3-4c93-41f0-a551-09fbb36ef2e9',
-            '55',       // Precio
+            '43',       // Precio
             4,          // Personas
             3,          // Camas
             './img/aptoCasaMarPuertoTazacorte.jpg'
@@ -164,7 +164,7 @@ function myMap() {
             28.637840,
             -17.883002,
             'https://www.wanderlustcanarias.com/casas/rooms/eb27a71c-808a-488b-a899-b82b3ef830b6',
-            '38',       // Precio
+            '32',       // Precio
             3,          // Personas
             2,          // Camas
             './img/casitaTajuyaElPaso.jpg'
