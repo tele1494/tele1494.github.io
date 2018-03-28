@@ -31,8 +31,8 @@ function myMap() {
         ],
         [
             'Casa Mart&iacuten - Tijarafe',
-            28.711037,
-            -17.956024,
+            28.694146,
+            -17.952366,
             'https://www.wanderlustcanarias.com/casas/rooms/8c59efb4-0a5c-4fa8-8086-6822ffe6dc42',
             '41',       // Precio
             2,          // Personas
@@ -51,8 +51,8 @@ function myMap() {
         ],
         [
             'Casita La Canela - Santa Cruz de La Palma',
-            28.683975,
-            -17.764576,
+            28.684356,
+            -17.766926,
             'https://www.wanderlustcanarias.com/casas/rooms/21ddcd87-188a-463a-af37-db0346704c5d',
             '42',       // Precio
             2,          // Personas
@@ -104,7 +104,7 @@ function myMap() {
             28.640668,
             -17.934569,
             'https://www.wanderlustcanarias.com/casas/rooms/f492ec28-43e0-4adf-8060-ca2463e4bea3',
-            '46.20',    // Precio
+            '45',    // Precio
             4,          // Personas
             3,          // Camas
             './img/plataneras2VillaTazacorte.jpg'
@@ -114,7 +114,7 @@ function myMap() {
             28.640455,
             -17.934383,
             'https://www.wanderlustcanarias.com/casas/rooms/eb7736af-b1c5-45dc-86a3-f9556ae4fefa',
-            '46.20',    // Precio
+            '45',    // Precio
             4,          // Personas
             3,          // Camas
             './img/plataneras3VillaTazacorte.jpg'
@@ -124,7 +124,7 @@ function myMap() {
             28.640662,
             -17.934068,
             'https://www.wanderlustcanarias.com/casas/rooms/4b74a8d7-e8c3-42e2-9240-5f080c0a2ede',
-            '46.20',    // Precio
+            '45',    // Precio
             4,          // Personas
             3,          // Camas
             './img/plataneras4VillaTazacorte.jpg'
