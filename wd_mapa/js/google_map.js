@@ -190,6 +190,16 @@ function myMap() {
             './img/kekasGuesthouse.jpg'
         ],
         [
+            'Casa Siete Ca&ntildeadas - El Portillo',
+            28.295992,
+            -16.565623,
+            'https://www.wanderlustcanarias.com/casas/rooms/0fe70c6f-7f94-4deb-b6cf-35d3999aba26',
+            '70',    // Precio
+            6,          // Personas
+            6,          // Camas
+            './img/casaSieteCanyadasPortillo.jpg'
+        ],
+        [
             'Apto. La Puente I - Costa G&uumlimar',
             28.250290,
             -16.397639,
