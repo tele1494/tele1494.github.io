@@ -258,6 +258,16 @@ function myMap() {
             4,          // Personas
             3,          // Camas
             './img/aptoCentroSantaCruzTenerife.jpg'
+        ],
+        [
+            'Adosado Carril de Billete - Tacoronte',
+            28.462991,
+            -16.403306,
+            'https://www.wanderlustcanarias.com/casas/rooms/411e686f-03c7-448f-af2b-7ac92349c61b',
+            '50',    // Precio
+            7,          // Personas
+            3,          // Camas
+            './img/adosadoCarrilBilleteTacoronte.jpg'
         ]
     ];
     
