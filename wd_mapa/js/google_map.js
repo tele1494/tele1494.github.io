@@ -10,6 +10,16 @@ function myMap() {
     
     var locations = [
         [
+            'Casitas Miramar I - El Paso',
+            28.649761,
+            -17.885906,
+            'https://www.wanderlustcanarias.com/casas/rooms/1d173f6f-495d-484a-b9e3-55efb03605a3',
+            '46',    // Precio
+            4,          // Personas
+            4,          // Camas
+            './img/casitasMiramarIElPaso.jpg'
+        ],
+        [
             'Casa R&uacutestica Hoya Grande - Garaf&iacutea',
             28.790507,
             -17.927050,
