@@ -20,6 +20,16 @@ function myMap() {
             './img/casitasMiramarIElPaso.jpg'
         ],
         [
+            'Casitas Miramar II - El Paso',
+            28.650417,
+            -17.888810,
+            'https://www.wanderlustcanarias.com/casas/rooms/25ae25f5-89c0-4fe8-9d61-fd8844f15da3',
+            '42',    // Precio
+            2,          // Personas
+            2,          // Camas
+            './img/casitasMiramarIIElPaso.jpg'
+        ],
+        [
             'Casa R&uacutestica Hoya Grande - Garaf&iacutea',
             28.790507,
             -17.927050,
