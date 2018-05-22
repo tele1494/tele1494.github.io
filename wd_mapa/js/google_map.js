@@ -200,6 +200,16 @@ function myMap() {
             './img/aptoKiril2PiedrasBlancasElPaso.jpg'
         ],
         [
+            'Casa Canaria La Laguna',
+            28.625493,
+            -17.901949,
+            'https://www.wanderlustcanarias.com/casas/rooms/a0cf713d-f415-462a-b820-d8213c4f06eb',
+            '60',       // Precio
+            4,          // Personas
+            3,          // Camas
+            './img/casaCanariaLaLaguna.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
