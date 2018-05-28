@@ -210,6 +210,16 @@ function myMap() {
             './img/casaCanariaLaLaguna.jpg'
         ],
         [
+            'Apto. Heliocentro - Los Llanos de Aridane',
+            28.660762,
+            -17.923497,
+            'https://www.wanderlustcanarias.com/casas/rooms/8499a5a3-3f16-4a76-bba3-05942725550c',
+            '45',       // Precio
+            2,          // Personas
+            2,          // Camas
+            './img/aptoHeliocentroLlanosAridane.jpg'
+        ],
+        [
             'Keka´s Guesthouse',
             28.461567,
             -16.255834,
