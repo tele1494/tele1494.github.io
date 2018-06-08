@@ -204,7 +204,7 @@ function myMap() {
             28.625493,
             -17.901949,
             'https://www.wanderlustcanarias.com/casas/rooms/a0cf713d-f415-462a-b820-d8213c4f06eb',
-            '60',       // Precio
+            '65',       // Precio
             4,          // Personas
             3,          // Camas
             './img/casaCanariaLaLaguna.jpg'
